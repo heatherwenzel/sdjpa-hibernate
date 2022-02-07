@@ -1,6 +1,5 @@
 package com.heatherwenzel.hibernate;
 
-
 import com.heatherwenzel.hibernate.repositories.BookRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,5 +24,3 @@ public class MySQLIntegrationTest {
     }
 
 }
-
-
